@@ -3,13 +3,14 @@
 You can have this on your local machine as easy as ```git clone https://github.com/HyperSprite/git-notes.git```
 
 ###Git learning resources
-[Codecademy](https://www.codecademy.com/learn/learn-git) - Interactive, nothing to install, basic if you don't get the **Pro** plan (I don't have a Pro plan, can't say how good that is).
-[FreeCodeCamp](https://www.freecodecamp.com/challenges/save-your-code-revisions-forever-with-git) - The real deal, you will work with a real github repo and get your name on the contributors list.
+
+ - [Codecademy](https://www.codecademy.com/learn/learn-git) - Interactive, nothing to install, basic if you don't get the **Pro** plan (I don't have a Pro plan, can't say how good that is).
+ - [FreeCodeCamp](https://www.freecodecamp.com/challenges/save-your-code-revisions-forever-with-git) - The real deal, you will work with a real github repo and get your name on the contributors list.
 
 ###Tools
-I love the [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) tool. It makes git on the command line just that much better.
 
-Windows users maybe [GitHub Desktop](https://desktop.github.com/) is for you. I can't say for sure, I'm on linux.
+ - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)  - I love the bash-git-prompt tool. It makes git on the command line just that much better.
+ - [GitHub Desktop](https://desktop.github.com/) - Windows users maybe GitHub Desktop is for you. I can't say for sure, I'm on linux.
 
 >Note: Even if you never plan to put something out on Github or share it with anyone else. **Never** put **anything** in a git repo that you don't want public without first adding it to the .gitignore file and testing that it is working properly. See **Ignoring Files** below for more information. 
 
